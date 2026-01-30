@@ -1,59 +1,57 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#58a6ff">Wahyu Krisna</span>
-</h1>
-
+<h1 align="center">Hi 👋, I'm Wahyu Krisnap</h1>
 <h3 align="center">
-  🚀 Web & Mobile Developer | ⚛️ React | 📱 React Native | 🔗 Blockchain Enthusiast
+  Web & Mobile Developer • React & Expo • Blockchain Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+%26+Mobile+Developer;React+%7C+React+Native;Exploring+Web3+%26+Blockchain;Building+Modern+Digital+Products&center=true&width=520&height=45&color=58a6ff&vCenter=true&pause=1000">
-</p>
-
----
-
-## 🧰 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,reactnative,expo,vue,nodejs,java,mongodb,postgres,git,github,figma&theme=dark" />
-</p>
-
----
-
-## ⚡ GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyukrisnap&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wahyukrisnap&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Tech Stack Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyukrisnap&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://komarev.com/ghpvc/?username=Wahyukrisnap&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Web3, Blockchain & Smart Contracts**
-- 💻 Focused on **Web & Mobile Development**
-- 📱 Building apps with **React Native & Expo**
-- 🌿 Interested in **Plant-based Apps & Digital Innovation**
-- 🔥 Passionate about **clean, scalable code**
+- 💻 Web & **Mobile Developer**
+- ⚛️ Focus on **React, TypeScript, Expo**
+- 🌐 Exploring **Web3 & Blockchain**
+- 🌱 Love **Plant-based Apps & Innovation**
+- 🎯 Build clean UI & scalable systems
 
 ---
 
-## 🏆 Achievements
+## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahyukrisnap&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,expo,vue,nodejs,java,mongodb,postgres,git,github,figma&theme=dark" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
 <p align="center">
-  ✨ <b>Let’s build impactful digital products together.</b> ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyukrisnap&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyukrisnap&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://github.com/Wahyukrisnap">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+⭐️ *Feel free to explore my repositories and projects!*
