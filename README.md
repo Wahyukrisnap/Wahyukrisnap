@@ -29,8 +29,6 @@
 </p>
 
 ---
-
-## 🚀 Professional Summary
 - 💻 **Web & Mobile Developer** with hands-on experience in modern JavaScript ecosystems
 - ⚛️ Strong focus on **React, TypeScript, and Expo**
 - 🌊 Passionate about **user-centric design & performance**
@@ -39,15 +37,11 @@
 - 🎯 Delivering **clean, scalable, and production-ready solutions**
 
 ---
-
-## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,expo,vue,nodejs,java,mongodb,postgres,git,github,figma&theme=dark" />
 </p>
 
 ---
-
-## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyukrisnap&theme=tokyonight&hide_border=true" height="165" />
@@ -55,24 +49,14 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyukrisnap&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
 
 ---
 
-## 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
-## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/Wahyukrisnap">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4FC3F7" />
