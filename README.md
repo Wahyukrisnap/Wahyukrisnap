@@ -1,25 +1,42 @@
-<h1 align="center">Hi 👋, I'm Wahyu Krisna</h1>
 <p align="center">
-  <strong>Web & Mobile Developer</strong> • React & Expo • Blockchain Enthusiast
+  <img src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/main/banner-wave-custom.png" alt="Wahyu Krisna Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wahyukrisnap&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Inter
+    &weight=600
+    &size=18
+    &pause=1200
+    &color=4FC3F7
+    &center=true
+    &vCenter=true
+    &width=750
+    &lines=Web+%26+Mobile+Developer;React+%7C+TypeScript+%7C+Expo;Building+Scalable+%26+Clean+User+Interfaces;Exploring+Blockchain+%26+Web3" />
 </p>
 
 <p align="center">
-  Building modern web & mobile applications with clean UI, scalable architecture,  
-  and a growing interest in Web3 & Blockchain technologies.
+  <strong style="color:#4FC3F7">Web & Mobile Developer</strong> • React • Expo • Blockchain
+</p>
+
+<p align="center">
+  I design and build modern web & mobile applications with a strong focus on  
+  clean UI, maintainable code, and scalable architecture.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wahyukrisnap&label=Profile%20Views&color=4FC3F7&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Web & **Mobile Developer** focused on modern JavaScript ecosystems  
-- ⚛️ Specialized in **React, TypeScript, Expo**
-- 🌐 Exploring **Web3 & Blockchain** technologies
-- 🌱 Interested in **Plant-based Apps & Digital Innovation**
-- 🎯 Passionate about **clean UI, performance, and maintainable code**
+## 🚀 Professional Summary
+- 💻 **Web & Mobile Developer** with hands-on experience in modern JavaScript ecosystems
+- ⚛️ Strong focus on **React, TypeScript, and Expo**
+- 🌊 Passionate about **user-centric design & performance**
+- 🌐 Actively exploring **Blockchain & Web3 technologies**
+- 🌱 Interested in **plant-based innovation & digital sustainability**
+- 🎯 Delivering **clean, scalable, and production-ready solutions**
 
 ---
 
@@ -55,10 +72,10 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/Wahyukrisnap">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4FC3F7" />
   </a>
 </p>
 
 <p align="center">
-  ⭐️ <em>Feel free to explore my repositories and projects</em>
+  ⭐️ <em>Open to collaboration, professional opportunities, and impactful projects</em>
 </p>
