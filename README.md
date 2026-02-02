@@ -3,19 +3,16 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=Inter
-      &weight=800
-      &size=22
-      &pause=1200
-      &color=5BC0F8
-      &center=true
-      &vCenter=true
-      &width=900
-      &lines=Web+%26+Mobile+Developer;React+%7C+Expo+%7C+Blockchain"
-    alt="Web & Mobile Developer • React • Expo • Blockchain"
-  />
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Inter
+    &weight=600
+    &size=18
+    &pause=1200
+    &color=4FC3F7
+    &center=true
+    &vCenter=true
+    &width=750
+    &lines=Web+%26+Mobile+Developer;React+%7C+TypeScript+%7C+Expo;Building+Scalable+%26+Clean+User+Interfaces;Exploring+Blockchain+%26+Web3" />
 </p>
 
 <p align="center">
