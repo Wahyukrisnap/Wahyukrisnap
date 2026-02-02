@@ -1,34 +1,39 @@
-<h1 align="center">Hi 👋, I'm Wahyu Krisnap</h1>
-<h3 align="center">
-  Web & Mobile Developer • React & Expo • Blockchain Enthusiast
-</h3>
+<h1 align="center">Hi 👋, I'm Wahyu Krisna</h1>
+<p align="center">
+  <strong>Web & Mobile Developer</strong> • React & Expo • Blockchain Enthusiast
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wahyukrisnap&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Wahyukrisnap&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+<p align="center">
+  Building modern web & mobile applications with clean UI, scalable architecture,  
+  and a growing interest in Web3 & Blockchain technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Web & **Mobile Developer**
-- ⚛️ Focus on **React, TypeScript, Expo**
-- 🌐 Exploring **Web3 & Blockchain**
-- 🌱 Love **Plant-based Apps & Innovation**
-- 🎯 Build clean UI & scalable systems
+- 💻 Web & **Mobile Developer** focused on modern JavaScript ecosystems  
+- ⚛️ Specialized in **React, TypeScript, Expo**
+- 🌐 Exploring **Web3 & Blockchain** technologies
+- 🌱 Interested in **Plant-based Apps & Digital Innovation**
+- 🎯 Passionate about **clean UI, performance, and maintainable code**
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,expo,vue,nodejs,java,mongodb,postgres,git,github,figma&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyukrisnap&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyukrisnap&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -40,7 +45,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -54,4 +59,6 @@
   </a>
 </p>
 
-⭐️ *Feel free to explore my repositories and projects!*
+<p align="center">
+  ⭐️ <em>Feel free to explore my repositories and projects</em>
+</p>
