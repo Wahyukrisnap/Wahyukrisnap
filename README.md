@@ -51,17 +51,16 @@
 
 
 ---
-snake game
+Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
- 
- Pac-Man Contribution Game
+Pac-Man Contribution Game
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Graph"
+  <img src="https://raw.githubusercontent.com/Wahyukrisnap/Wahyukrisnap/output/pacman-contribution-graph.svg" />
+</p>
+
   />
 </p>
 
