@@ -15,7 +15,7 @@ I am focused on blockchain technology, decentralized systems, and smart contract
 My objective is to build secure, transparent, and scalable Web3 applications with strong architectural design.
     </td>
     <td width="30%" align="center">
-<img src="photos.jpeg" width="170" />
+<img src="photo.JPG" width="200" />
 </td>
   </tr>
 </table>
