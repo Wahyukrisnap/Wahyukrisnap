@@ -64,12 +64,12 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
       </a>
     </td>
     <td align="center" width="80">
-      <a href="https://wa.me/628XXXXXXXXXX">
+      <a href="https://wa.me/6285792731714">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" />
       </a>
     </td>
     <td align="center" width="80">
-      <a href="mailto:youremail@gmail.com">
+      <a href="mailto:wkrisna171@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
       </a>
     </td>
