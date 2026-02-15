@@ -59,6 +59,14 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
   <a href="https://linkedin.com/in/wahyukrisna">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+<a href="https://wa.me/6285792731714">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="mailto:wkrisna171@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
 </p>
 
 ---
