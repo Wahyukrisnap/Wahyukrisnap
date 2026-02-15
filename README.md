@@ -27,6 +27,7 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
 - Node.js
 - React
 - HTML and CSS
+- PHP (Hypertext Preprocessor) 
 
 ### Tools & Platforms
 - Git & GitHub
