@@ -13,6 +13,39 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
 
 ---
 
+## Technical Expertise
+
+### Blockchain
+- Smart Contract Development (Solidity)
+- Decentralized Application (DApp) Architecture
+- Token & NFT Implementation
+- Web3 Integration
+
+### Programming
+- JavaScript
+- Python
+- Node.js
+- React
+- HTML and CSS
+
+### Tools & Platforms
+- Git & GitHub
+- MySQL
+- Hardhat
+- Supabase
+
+### Cryptocurrency & Market Analysis
+I am actively involved in cryptocurrency market research and digital asset analysis. 
+My focus includes technical analysis, market structure evaluation, and risk-managed trading strategies.
+
+Key areas of interest:
+- Technical analysis (trend analysis, support & resistance, indicators)
+- Market cycle and price behavior analysis
+- Risk management and portfolio allocation
+- On-chain data observation
+  
+---
+
 ## Technical Stack
 
 <p align="center">
