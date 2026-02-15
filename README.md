@@ -1,4 +1,7 @@
-<h1 align="center">Wahyukrisnap</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=5000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Wahyukrisnap" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Engineer;Researcher" />
