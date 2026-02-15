@@ -56,7 +56,7 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/wahyukrisnap">
+  <a href="https://linkedin.com/in/wahyukrisna">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
