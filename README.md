@@ -8,8 +8,17 @@
 
 ## Profile
 
-I am focused on blockchain technology, decentralized systems, and smart contract development.  
+<table width="100%">
+  <tr>
+    <td width="72%" valign="middle">
+I am focused on blockchain technology, decentralized systems, and smart contract development.
 My objective is to build secure, transparent, and scalable Web3 applications with strong architectural design.
+    </td>
+    <td width="30%" align="center">
+<img src="photos.jpeg" width="170" />
+</td>
+  </tr>
+</table>
 
 ---
 
