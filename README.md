@@ -65,8 +65,8 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
   </a>
 
   <a href="mailto:wkrisna171@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
