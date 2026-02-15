@@ -1,63 +1,67 @@
 <h1 align="center">Wahyukrisnap</h1>
-<h3 align="center">Blockchain Developer | Web3 Enthusiast | Researcher</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Engineer;Researcher" />
+</p>
 
 ---
 
-## About Me
+## Profile
 
-I am a developer focused on blockchain technology, smart contract development, and decentralized applications.  
-I am interested in building transparent, secure, and scalable Web3 systems.
-
-- Currently working on blockchain-based applications
-- Researching smart contracts and decentralized systems
-- Exploring DeFi architecture and AI integration
-- Open to collaboration on Web3 and research projects
+I am focused on blockchain technology, decentralized systems, and smart contract development.  
+My objective is to build secure, transparent, and scalable Web3 applications with strong architectural design.
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-### Programming & Development
-- Solidity
-- JavaScript
-- Python
-- Node.js
-- React
-
-### Database & Tools
-- MySQL
-- Git
-- GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,js,react,nodejs,python,mysql,git,github" />
+</p>
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyukrisnap&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyukrisnap&theme=default" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=wahyukrisnap&theme=tokyonight&hide_border=true&background=0D1117" 
+    height="170"
+  />
 </p>
 
 ---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/wahyukrisnap/wahyukrisnap/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## Current Focus
 
-- Smart Contract Development
-- Blockchain for Agriculture Systems
-- Security and Smart Contract Auditing
+- Smart Contract Development  
+- Decentralized Application Architecture  
+- Blockchain-based Agriculture Systems  
+- Security and Smart Contract Auditing  
 
 ---
 
-## Contact
+## Connect
 
-- Email: wkrisna171@gmail.com
-- LinkedIn: https://linkedin.com/in/wahyukrisna
+<p align="center">
+  <a href="https://linkedin.com/in/wahyukrisnap">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Profile maintained by wahyukrisnap</i>
+  <sub>Maintained by wahyukrisnap</sub>
 </p>
