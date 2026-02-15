@@ -33,6 +33,7 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
 - MySQL
 - Hardhat
 - Supabase
+- VScode
 
 ### Cryptocurrency & Market Analysis
 I am actively involved in cryptocurrency market research and digital asset analysis. 
