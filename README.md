@@ -39,7 +39,7 @@ My objective is to build secure, transparent, and scalable Web3 applications wit
 ## Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wahyukrisnap/wahyukrisnap/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/wahyukrisnap/wahyukrisnap/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
