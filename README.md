@@ -9,23 +9,19 @@
 
 ---
 
-## Profile
-
-<table width="100%">
-  <tr>
-    <td width="70%" valign="middle" style="text-align: justify; padding-right: 30px;">
-
-I am focused on blockchain technology, decentralized systems, and smart contract development. My objective is to build secure, transparent, and scalable Web3 applications with strong architectural design.
-
-I also accept freelance projects for website and digital catalog development. I have previously developed and sold a website-based visit booking system and digital catalogs, including a Tangerang City catalog and an ornamental plant catalog. Additionally, I provide academic web development assistance for university projects.
-
-    </td>
-
-    <td width="30%" align="center" valign="middle">
-      <img src="photo.JPG" width="180" />
-    </td>
-  </tr>
-</table>
+<table width="100%"> 
+  <tr> 
+    <td width="72%" valign="middle"> 
+I am focused on blockchain technology, decentralized systems, and smart contract development. 
+My objective is to build secure, transparent, and scalable Web3 applications with strong architectural design. 
+ 
+I also accept freelance projects for website and digital catalog development. I have previously developed and sold a website-based visit booking system and digital catalogs, including a Tangerang City catalog and an ornamental plant catalog. Additionally, I provide academic web development assistance for university projects. 
+    </td> 
+    <td width="30%" align="center"> 
+<img src="photo.JPG" width="200" /> 
+</td> 
+  </tr> 
+</table> gimana cara agar rata kan kiri
 ---
 
 ## Technical Expertise
