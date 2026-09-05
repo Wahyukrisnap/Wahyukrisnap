@@ -11,11 +11,8 @@
 
 <table width="100%"> 
   <tr> 
-    <td width="79%" valign="middle"> 
-I am focused on blockchain technology, decentralized systems, and smart contract development. 
-My objective is to build secure, transparent, and scalable Web3 applications with strong architectural design. 
- 
-I also accept freelance projects for website and digital catalog development. I have previously developed and sold a website-based visit booking system and digital catalogs, including a Tangerang City catalog and an ornamental plant catalog. Additionally, I provide academic web development assistance for university projects. 
+    <td width="86%" valign="middle"> 
+I am a Full-Stack Developer focused on building scalable, secure, and user-oriented web applications, with experience in frontend, backend, REST APIs, databases, and application architecture. I enjoy developing real-world solutions such as web applications, recommendation systems, booking platforms, and digital catalogs, while continuously expanding my expertise in AI, Blockchain, Web3, backend engineering, and scalable system architecture.
     </td> 
     <td width="30%" align="center"> 
 <img src="photo.JPG" width="250" /> 
