@@ -87,16 +87,18 @@ A web application that recommends plants based on the user's home conditions.
 
 <td width="50%" valign="top">
 
-### 🤖 AI Learning Coach
-**AI-Powered Learning System**
+### 🌿 PlantMatch-Go
 
-An AI-based learning assistant focused on contextual learning and intelligent interaction.
+**AI-Powered Plant Recommendation System**
 
-**Stack**
+A web application for finding plants that match user preferences and home conditions.
+
+**Tech Stack**
+- Go
 - AI
-- RAG
+- PostgreSQL
+- JavaScript
 - REST API
-- Backend Architecture
 
 [View Project →](https://github.com/wahyukrisnap)
 
