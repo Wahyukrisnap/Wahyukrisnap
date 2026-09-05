@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Engineer;Researcher;FullStack+Developer;Mobile+and+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2000&pause=400&color=00F7FF&center=true&vCenter=true&width=700&lines=Blockchain+Developer;Web3+Enthusiast;Smart+Contract+Engineer+Researcher;Full+Stack+Developer;Mobile+and+Web+Developer" />
 </p>
 
 ---
