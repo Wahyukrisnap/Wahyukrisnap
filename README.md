@@ -186,12 +186,13 @@ A web application for managing products, transactions, and business operations t
 </p>
 
 
-## Current Focus
+## 🎯 Current Focus
 
-- Smart Contract Development  
-- Decentralized Application Architecture  
-- Blockchain-based Agriculture Systems  
-- Security and Smart Contract Auditing  
+- Building scalable Full-Stack applications
+- Developing AI-powered systems
+- Improving backend architecture
+- Working with REST APIs and databases
+- Exploring AI, Blockchain & Web3
 
 ---
 
