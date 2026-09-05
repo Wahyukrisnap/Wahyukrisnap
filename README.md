@@ -56,26 +56,125 @@ Key areas of interest:
   
 ---
 
+
 ## Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,js,react,nodejs,python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,wordpress,js,react,python,mysql,postgres,git,github" />
 </p>
 
 ---
+## 🚀 Featured Projects
 
-## GitHub Statistics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=wahyukrisnap&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="170"
-/>
-  <img 
-    src="https://streak-stats.demolab.com?user=wahyukrisnap&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+### 🌿 PlantMatch
+**Plant Recommendation System**
+
+A web application that recommends plants based on the user's home conditions.
+
+**Stack**
+- Go
+- PostgreSQL
+- JavaScript
+- REST API
+
+[View Project →](https://github.com/wahyukrisnap)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Learning Coach
+**AI-Powered Learning System**
+
+An AI-based learning assistant focused on contextual learning and intelligent interaction.
+
+**Stack**
+- AI
+- RAG
+- REST API
+- Backend Architecture
+
+[View Project →](https://github.com/wahyukrisnap)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ Smart Contract
+**Blockchain-Based Thesis Project**
+
+A blockchain-based application developed as part of my undergraduate thesis, focusing on smart contract implementation and decentralized application concepts.
+
+**Stack**
+- Solidity
+- Smart Contract
+- Blockchain
+- Web3
+
+[View Project →](https://github.com/wahyukrisnap)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📅 Visit Booking System
+**Web-Based Booking Platform**
+
+A web application designed to manage visitor registration and booking processes.
+
+**Stack**
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+
+[View Project →](https://github.com/wahyukrisnap)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Digital Plant Catalog
+**Plant Information Platform**
+
+A digital catalog for exploring and managing ornamental plant information.
+
+**Stack**
+- PHP
+- JavaScript
+- MySQL
+- Web Development
+
+[View Project →](https://github.com/wahyukrisnap)
+
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Management System
+**Web-Based Management Platform**
+
+A web application for managing products, transactions, and business operations through an integrated management system.
+
+**Stack**
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+
+[View Project →](https://github.com/wahyukrisnap)
+
+</td>
+
+</td>
+</tr>
+</table>
 
 
 ---
